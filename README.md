@@ -64,3 +64,7 @@ Here we divide the problem into several subproblems and conquer the result of th
 ### 📌 **Legend**
 - **CW**: **Classwork**
 - **HW**: **Homework**
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/21b58d9b-f753-4c5f-8b59-1d04c6d37d74" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/4b0d6091-22c1-4348-bc74-3f0e7f8f71eb" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/fd401142-61da-4918-9523-dc18cbb08479" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/ded9d2bf-110f-40ca-8046-0da0650d33de" />
